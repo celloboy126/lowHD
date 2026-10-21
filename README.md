@@ -1,8 +1,8 @@
-# lowHD + highHD
+# lowHD + D2R QoL
 
-Diablo II: Resurrected performance mods by **celloboy126** on jsp, Nexus Mods and Traderie.
+Diablo II: Resurrected performance and quality-of-life mods by **celloboy126** on jsp, Nexus Mods and Traderie.
 
-lowHD reduces visual content to help lower memory use and improve performance when running D2R, especially multiple accounts. This repository distributes four lowHD variants and highHDmain, which retains the original graphics while adding the QoL controls from lowHDmin. Shader binaries are included in the lowHD variants where supplied. Choose a variant below or browse [Releases](https://github.com/celloboy126/lowHD/releases).
+lowHD reduces visual content to help lower memory use and improve performance when running D2R, especially multiple accounts. This repository distributes four lowHD variants and QoL, which retains the original graphics while adding the QoL controls from lowHDmin. Shader binaries are included in the lowHD variants where supplied. Choose a variant below or browse [Releases](https://github.com/celloboy126/lowHD/releases).
 
 | Download | Variant |
 | --- | --- |
@@ -10,9 +10,9 @@ lowHD reduces visual content to help lower memory use and improve performance wh
 | [lowHDfiller.zip](https://github.com/celloboy126/lowHD/releases/download/v2026.10.19/lowHDfiller.zip) | Filler |
 | [lowHDmin.zip](https://github.com/celloboy126/lowHD/releases/download/v2026.10.19/lowHDmin.zip) | Min |
 | [lowHDpartial.zip](https://github.com/celloboy126/lowHD/releases/download/v2026.10.19/lowHDpartial.zip) | Partial |
-| [highHDmain.zip](https://github.com/celloboy126/lowHD/releases/download/v2026.10.20-highHD/highHDmain.zip) | Original graphics with QoL |
+| [QoL.zip](https://github.com/celloboy126/lowHD/releases/download/v2026.10.20-QoL/QoL.zip) | Original graphics with QoL |
 
-highHDmain includes persistent other-player information (level, name, area), fast exit to lobby, transparent click-through panels, in-game make/join, automatic game-name focus in the lobby, and full arrow-key game-menu navigation. These controls support the default Make/Join workflow in **D2R Multigate Launcher**, currently in development.
+QoL preserves normal audio and cinematics, adds a gentler Thunderstorm effect without a full-screen flash and increased unique-monster saturation, and includes persistent other-player information (level, name, area), fast exit to lobby, transparent click-through panels, in-game make/join, automatic game-name focus in the lobby, and full arrow-key game-menu navigation. These controls support the default Make/Join workflow in **D2R Multigate Launcher**, currently in development.
 
 ## Download counts
 
@@ -22,9 +22,9 @@ GitHub counts downloads of each release asset. These are download requests, not 
 [![lowHDfiller downloads](https://img.shields.io/github/downloads/celloboy126/lowHD/lowHDfiller.zip?label=lowHDfiller)](https://github.com/celloboy126/lowHD/releases)
 [![lowHDmin downloads](https://img.shields.io/github/downloads/celloboy126/lowHD/lowHDmin.zip?label=lowHDmin)](https://github.com/celloboy126/lowHD/releases)
 [![lowHDpartial downloads](https://img.shields.io/github/downloads/celloboy126/lowHD/lowHDpartial.zip?label=lowHDpartial)](https://github.com/celloboy126/lowHD/releases)
-[![highHDmain downloads](https://img.shields.io/github/downloads/celloboy126/lowHD/highHDmain.zip?label=highHDmain)](https://github.com/celloboy126/lowHD/releases)
+[![QoL downloads](https://img.shields.io/github/downloads/celloboy126/lowHD/QoL.zip?label=QoL)](https://github.com/celloboy126/lowHD/releases)
 
-The [public release API](https://api.github.com/repos/celloboy126/lowHD/releases?per_page=100) exposes each asset's `download_count`. GitHub does not provide downloader countries. A separate country-only download redirect is being prepared; existing GitHub downloads cannot be given a country retroactively. No telemetry is added to the launcher for these counts.
+The [public release API](https://api.github.com/repos/celloboy126/lowHD/releases?per_page=100) exposes each asset's `download_count`. Only download counts are used; no country tracking is planned. No telemetry is added to the launcher for these counts.
 
 ## Installation
 
@@ -46,4 +46,4 @@ The 2026-10-19 release preserves the author-approved installed versions. Main, f
 
 See [the original lowHD Nexus page](https://www.nexusmods.com/diablo2resurrected/mods/1054?tab=description) for screenshots and more information.
 
-Inspired by Gimli's TinyMod, mininexus mod, and numerous modders on inven. All original credits within the packages are retained. Release preparation and companion launcher development received substantial help from ChatGPT Codex.
+Inspired by Gimli's TinyMod, mininexus mod, and numerous modders on inven. All original credits within the packages are retained. Release preparation and companion launcher development by celloboy126, with Codex.
