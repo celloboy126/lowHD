@@ -1,5 +1,7 @@
 # lowHD / QoL 및 D2R Multigate Launcher 한국어 안내
 
+[패널 배경 및 클릭 차단 복원 안내](RESTORE-PANELS.md#한국어)
+
 **제작: celloboy126**  
 [lowHD / QoL 모드 다운로드](https://github.com/celloboy126/lowHD/releases/latest) · [Multigate Launcher 다운로드](https://github.com/celloboy126/D2R-Multigate-Launcher/releases/latest)
 

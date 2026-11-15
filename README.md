@@ -1,5 +1,7 @@
 # lowHD + D2R QoL
 
+[Restore panel backgrounds and click blocking](RESTORE-PANELS.md#english)
+
 Diablo II: Resurrected mods by **celloboy126** on jsp, Nexus Mods and Traderie.
 
 **[한국어 설치 및 문제 해결 안내](README.ko.md)**
